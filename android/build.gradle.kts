@@ -205,7 +205,7 @@ android {
 		create("duo") {
 			isDefault = true
 			// Separate package so it installs side by side with regular PPSSPP.
-			applicationId = "org.ppsspp.ppssppduo"
+			applicationId = "org.ppsspp.ppssppduo.zh"
 			dimension = "variant"
 			// Duo has its own version, independent of the upstream git tags.
 			versionCode = duoVersionCode
